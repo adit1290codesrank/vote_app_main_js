@@ -21,4 +21,4 @@ async function login() {
     console.log("logged out");
   }
   
-  document.getElementById("login_button").onclick = login;
+document.getElementById("login_button").onclick = login;
